@@ -1,0 +1,1 @@
+# Day2_AI_exercises
